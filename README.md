@@ -13,6 +13,8 @@ Practice repository from DH@Guelph
 
 More stuff!
 
+`Testing after setting up SSH key`
+
 
 ![Buddy](dog.jpg)
 
