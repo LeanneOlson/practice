@@ -11,7 +11,6 @@ Practice repository from DH@Guelph
 
 `code test`
 
-![](dog.jpg)
 
 ![Buddy](dog.jpg)
 
