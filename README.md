@@ -11,6 +11,8 @@ Practice repository from DH@Guelph
 
 `code test`
 
+More stuff!
+
 
 ![Buddy](dog.jpg)
 
