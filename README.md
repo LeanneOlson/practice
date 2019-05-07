@@ -11,6 +11,8 @@ Practice repository from DH@Guelph
 
 `code test`
 
-![](../../Dropbox/Photos/Buddy/2019-04-13-morning-hike/2019-04-1316.jpg)
+![](dog.jpg)
+
+![Buddy](dog.jpg)
 
 
